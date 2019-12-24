@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996919760567",
+    "firebase_url": "https://cobafirebascrud.firebaseio.com",
+    "project_id": "cobafirebascrud",
+    "storage_bucket": "cobafirebascrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996919760567:android:0ded432f180d678745df32",
+        "android_client_info": {
+          "package_name": "com.ardian.cobafirebascrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996919760567-bbm6rcsn84quhqpa6fhd8vt30ruu6qbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ardian.cobafirebascrud",
+            "certificate_hash": "1fd54ad0c47f0cc1c9580352d65f85d1f7ab5a21"
+          }
+        },
+        {
+          "client_id": "996919760567-30lc84sjme7lrcmmrgcptiqk14ngmuf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPeKZss0YhuAKYWIBNQDJ91HJyqUMb1Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996919760567-30lc84sjme7lrcmmrgcptiqk14ngmuf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
